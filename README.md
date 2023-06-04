@@ -1,2 +1,2 @@
-# AiChatBot
-AiChatBot
+# Npc for games with an llm behind
+

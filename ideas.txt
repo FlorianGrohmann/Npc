@@ -1,0 +1,21 @@
+Chat:
+    the promts have to be good enough, so the npc stays in it's role
+    short answers, chatgpt talks way too much
+    staying on the topic, llms jump too fast
+    realistic dialogue, chatgpt often sound too formal
+
+Memory:
+    Npc's should have a background story
+    They should remember previous interactions or events
+
+Interaction:
+    TTS for the character, one of the hardest parts. The voice has to fit
+    Image to Text model exists. A Multimodel Npc with vision
+    STT if the user wants to speak himself (easy with whisper)
+
+Problems:
+    chatgpt is too expensive
+    with context window you have about 100 messages/$
+    also responses take too long to be immersed
+
+A small llama-7b model would reduce compute cost by alot, finetuning one per character?

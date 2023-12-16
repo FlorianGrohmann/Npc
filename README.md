@@ -1,2 +1,1 @@
-# Npc for games with an llm behind
-
+ffmpeg required

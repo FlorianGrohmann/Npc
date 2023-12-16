@@ -1,0 +1,16 @@
+# audio2face
+grpcio==1.51.3
+numpy
+scipy
+sounddevice==0.4.2
+protobuf==3.17.3
+soundfile
+
+# project
+requests
+openai
+python-osc
+azure.cognitiveservices.speech
+pysentimiento
+pydub
+python-dotenv
